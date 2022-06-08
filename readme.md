@@ -1,4 +1,5 @@
-# Integrantes del grupo
+# Proyecto: Héroes
+## Integrantes del grupo
 - Zunilda Niveiro
 - Micaela Vizcarra
 - Julián B. Ortega
