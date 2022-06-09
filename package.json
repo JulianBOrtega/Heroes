@@ -1,0 +1,15 @@
+{
+    "name": "heroes16",
+    "version": "1.0.0",
+    "description": "Practica de GIT en grupos (Comision 16)",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Comision 16",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {}
+  }
